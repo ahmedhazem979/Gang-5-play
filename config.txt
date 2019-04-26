@@ -1,5 +1,6 @@
-token=NTM2OTY2Njg3NjA2NDM5OTM2.DyeZgg.4ChoeQLV7TlBSEtzhwZrP9xI-2w
-owner=433198762706599936
-prefix=k
+token=NTYzNDU0Njc3NzkxMDE0OTI0.XMNh7w.onydn716S1FGisYNaDSL504wnGY
+owner=538083629461536789
+prefix=d
+game=Type D Play
 stayinchannel=true
 songinstatus=true 
